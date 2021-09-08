@@ -1,0 +1,16 @@
+C:\Users\Dairis\Desktop\C# mape\2. lekc. MDarbs\2. Lekcijas MD\2. Lekcijas MD\bin\Debug\net5.0\2. Lekcijas MD.exe
+C:\Users\Dairis\Desktop\C# mape\2. lekc. MDarbs\2. Lekcijas MD\2. Lekcijas MD\bin\Debug\net5.0\2. Lekcijas MD.deps.json
+C:\Users\Dairis\Desktop\C# mape\2. lekc. MDarbs\2. Lekcijas MD\2. Lekcijas MD\bin\Debug\net5.0\2. Lekcijas MD.runtimeconfig.json
+C:\Users\Dairis\Desktop\C# mape\2. lekc. MDarbs\2. Lekcijas MD\2. Lekcijas MD\bin\Debug\net5.0\2. Lekcijas MD.runtimeconfig.dev.json
+C:\Users\Dairis\Desktop\C# mape\2. lekc. MDarbs\2. Lekcijas MD\2. Lekcijas MD\bin\Debug\net5.0\2. Lekcijas MD.dll
+C:\Users\Dairis\Desktop\C# mape\2. lekc. MDarbs\2. Lekcijas MD\2. Lekcijas MD\bin\Debug\net5.0\ref\2. Lekcijas MD.dll
+C:\Users\Dairis\Desktop\C# mape\2. lekc. MDarbs\2. Lekcijas MD\2. Lekcijas MD\bin\Debug\net5.0\2. Lekcijas MD.pdb
+C:\Users\Dairis\Desktop\C# mape\2. lekc. MDarbs\2. Lekcijas MD\2. Lekcijas MD\obj\Debug\net5.0\2. Lekcijas MD.csproj.AssemblyReference.cache
+C:\Users\Dairis\Desktop\C# mape\2. lekc. MDarbs\2. Lekcijas MD\2. Lekcijas MD\obj\Debug\net5.0\2. Lekcijas MD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dairis\Desktop\C# mape\2. lekc. MDarbs\2. Lekcijas MD\2. Lekcijas MD\obj\Debug\net5.0\2. Lekcijas MD.AssemblyInfoInputs.cache
+C:\Users\Dairis\Desktop\C# mape\2. lekc. MDarbs\2. Lekcijas MD\2. Lekcijas MD\obj\Debug\net5.0\2. Lekcijas MD.AssemblyInfo.cs
+C:\Users\Dairis\Desktop\C# mape\2. lekc. MDarbs\2. Lekcijas MD\2. Lekcijas MD\obj\Debug\net5.0\2. Lekcijas MD.csproj.CoreCompileInputs.cache
+C:\Users\Dairis\Desktop\C# mape\2. lekc. MDarbs\2. Lekcijas MD\2. Lekcijas MD\obj\Debug\net5.0\2. Lekcijas MD.dll
+C:\Users\Dairis\Desktop\C# mape\2. lekc. MDarbs\2. Lekcijas MD\2. Lekcijas MD\obj\Debug\net5.0\ref\2. Lekcijas MD.dll
+C:\Users\Dairis\Desktop\C# mape\2. lekc. MDarbs\2. Lekcijas MD\2. Lekcijas MD\obj\Debug\net5.0\2. Lekcijas MD.pdb
+C:\Users\Dairis\Desktop\C# mape\2. lekc. MDarbs\2. Lekcijas MD\2. Lekcijas MD\obj\Debug\net5.0\2. Lekcijas MD.genruntimeconfig.cache
